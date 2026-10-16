@@ -55,6 +55,7 @@ Forgotten Place＝被遗忘之地
 Special D-Zone＝D 特区
 Enmachi Residential Area＝苑街住宅区
 Doraku Street Shopping District＝道乐街商业区
+Deathmatch area＝死亡竞赛区
 //其他
 Euphoria＝欣快感
 禁翻词条
