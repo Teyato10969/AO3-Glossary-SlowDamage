@@ -44,9 +44,13 @@ Kokinoko Bridge＝胡鬼子桥
 Hagoita St. (Dist. B)＝羽子板街（B 特区）
 Hagoita St. (Dist. C)＝羽子板街（C 特区）
 Hagoita St. (Dist. D)＝羽子板街（D 特区）
+Hagoita Street (Dist. B)＝羽子板街（B 特区）
+Hagoita Street (Dist. C)＝羽子板街（C 特区）
+Hagoita Street (Dist. D)＝羽子板街（D 特区）
 Nightlife District＝繁华区
 Residential Area＝住宅区
 Kouou St.＝黄王街
+Kouou Street＝黄王街
 Abarocho Back Alley＝亚羽路町后巷
 Takanokuchi Hospital＝贵之口医院
 Rose / Flower Shop Rose＝Rose 花店
